@@ -13,6 +13,7 @@ public class Customer {
         return name;
     }
 
+
     public String getPersonalNumber() {
         return personalNumber;
     }
